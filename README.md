@@ -9,3 +9,4 @@
 | `./hello.go`    | File that prints a short greeting to the world. |
 | `./morestrings` | implements additional functions to manipulate UTF-8 encoded strings|
 | `./morestrings/reverse.go` | exports a function that returns the reverse of a string |
+| `./morestrings/reverse_test.go` | a test for the ReverseRunes function |
